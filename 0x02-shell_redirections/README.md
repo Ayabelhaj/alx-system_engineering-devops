@@ -1,2 +1,2 @@
 #!/bin/bash
-script that writes hello world
+script0
